@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Ananya Tiwari</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=120&lines=MERN+Stack+Developer,;Open+Source+Enthusiast,;Problem+Solver+%26+Learner,;Building+Cool+Projects+Everyday&color=FF5733,33FF57,3357FF,FF33A8">
   </a>
@@ -12,7 +12,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bXJ1dXFia3o5bnN3NTB4N3NqZzNzY3g0eGVscjN0bWZwNTU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/scZ_SH6ys8f16/giphy.gif" width="250px" alt="Coding GIF">
 <br>
 
 I'm a passionate and results-driven Developer with a love for creating innovative, human-centered solutions. I thrive on turning complex ideas into clean, efficient, and user-friendly applications that tackle real-world challenges.
@@ -77,17 +76,10 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
     <a href="https://www.codechef.com/users/ananya_cc_30">
         <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef profile" width="200">
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/anikateag7316">
+    <a href="https://www.geeksforgeeks.org/user/ananyatiw6p5v/">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
     </a>
 </div>
-
-<a href="https://www.geeksforgeeks.org/user/ananyatiw6p5v/">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/Anikate.png" alt="Try Hack Me Badge" />
-</a>
-
-
-
 
 </a>
 </div>
