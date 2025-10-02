@@ -1,17 +1,19 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1000x300/0D1117/FFFFFF%3Ftext%3DHello%252C%2520I%27m%2520Ananya%2520Tiwari%26font%3Dlato" alt="Header Banner">
-</div>
+<h1 align="center"><b>Hi , I'm Ananya Tiwari</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/ananyatiwari-profile">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="mailto:ananyatiwari3004@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
-</a>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Problem+Solver,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-👋 About Me
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anikateagrawal&style=flat-square&color=blue" alt="Views"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
+
+<picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
+
+<br>
+
 I'm a passionate and results-driven Developer with a love for creating innovative, human-centered solutions. I thrive on turning complex ideas into clean, efficient, and user-friendly applications that tackle real-world challenges.
 
 🔭 I’m currently working on Sahara, a voice-enabled, empathetic AI companion designed to provide a safe and anonymous space for the youth of India to discuss mental wellness.
@@ -26,56 +28,102 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 
 ⚡ Fun fact: I believe the best way to solve a stubborn bug is to dance it out.
 
-🛠️ My Tech Stack
-Here are some of the technologies I'm proficient in:
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,express,react,nodejs,html,css,js" />
-</a>
+
+## Languages 
+  -
+    ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
+    ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
+    [HTML](https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor)
+    ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor)
+    ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor)
+    
+
+<br>   
+
+## Full-Stack Development 
+-
+   ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
+   ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
+   ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
+   <img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongoDB" height="80" width="100">
+   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="mongoDB" height="100" width="150">
+   <img src="https://miro.medium.com/max/1400/1*JTVVQUW71CNf2ySo5h45zA.png" alt="mongoDB" height="80" width="100">
+
+<br>
+
+
+<br>
 </p>
 
-🚀 My Projects
-Here's a showcase of some of the projects I've worked on.
+<br>
+<br>
 
-Project Name
+-----
 
-Description
+<br>
 
-Tech Stack
+# <b>Coding Profiles </b><br>
+<div >
+    <a href="https://leetcode.com/u/ananya_tiwari_30/">
+        <img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="leetcode profile" width="250">
+    </a>
+    <a href="https://codeforces.com/profile/Ananya_cf30">
+        <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="hackerrank profile" width="200">
+    </a>
+    <a href="https://www.codechef.com/users/ananya_cc_30">
+        <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef profile" width="200">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/anikateag7316">
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
+    </a>
+</div>
 
-Repository
-
-Kick-Vibe
-
-A full-stack MERN e-commerce platform offering a seamless shopping experience with product browsing, user authentication, and order management.
-
-React Node.js Express MongoDB CSS
-
-GitHub
-
-Nyaya Saathi
-
-An AI-powered platform to make legal help more accessible in rural India by simplifying legal paperwork and connecting communities with legal services.
-
-React Node.js Express MongoDB CSS
-
-GitHub
-
-💻 Coding Platforms
-You can find me on these coding platforms:
-
-<div align="center">
-<a href="https://leetcode.com/u/ananya_tiwari_30/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dblack" alt="LeetCode">
-</a>
 <a href="https://www.geeksforgeeks.org/user/ananyatiw6p5v/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GeeksforGeeks-0F9D58%3Fstyle%3Dfor-the-badge%26logo%3Dgeeksforgeeks%26logoColor%3Dwhite" alt="GeeksforGeeks">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/Anikate.png" alt="Try Hack Me Badge" />
 </a>
-<a href="https://www.codechef.com/users/ananya_cc_30">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CodeChef-5B4638%3Fstyle%3Dfor-the-badge%26logo%3DCodeChef%26logoColor%3Dwhite" alt="CodeChef">
-</a>
-<a href="https://codeforces.com/profile/Ananya_cf30">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-445f9d%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite" alt="Codeforces">
+
+
+
+
 </a>
 </div>
+<br>
+
+# <b> Let's Connect..!</b> <img src="https://media.tenor.com/02ILjyFVXWQAAAAC/handshake.gif" width ="40">
+<br>
+<div align='left'>
+
+<a href="www.linkedin.com/in/ananyatiwari-profile" target="_blank">
+<img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin: 5px;"/>
+</a>
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>    Stay Cool! Stay Happy!...✨</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
