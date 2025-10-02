@@ -27,12 +27,13 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 <br>
 
 <p align="center">
+<br>
 
 ## Languages 
   -
     ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
     ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
-<br>   
+ 
 
 ## Full-Stack Development 
 -
@@ -63,7 +64,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
     </a>
 </div>
-
 </a>
 </div>
 <br>
@@ -71,7 +71,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 # <b> Let's Connect..!</b> <img src="https://media.tenor.com/02ILjyFVXWQAAAAC/handshake.gif" width ="40">
 <br>
 <div align='left'>
-
 <a href="www.linkedin.com/in/ananyatiwari-profile" target="_blank">
 <img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin: 5px;"/>
 </a>
