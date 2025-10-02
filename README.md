@@ -12,8 +12,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
-<picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
-
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bXJ1dXFia3o5bnN3NTB4N3NqZzNzY3g0eGVscjN0bWZwNTU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/scZ_SH6ys8f16/giphy.gif" width="250px" alt="Coding GIF">
 <br>
 
 I'm a passionate and results-driven Developer with a love for creating innovative, human-centered solutions. I thrive on turning complex ideas into clean, efficient, and user-friendly applications that tackle real-world challenges.
