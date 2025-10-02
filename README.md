@@ -2,13 +2,13 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=120&lines=MERN+Stack+Developer,;Open+Source+Enthusiast,;Problem+Solver+%26+Learner,;Building+Cool+Projects+Everyday&color=FF5733,33FF57,3357FF,FF33A8">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=false&vCenter=true&width=600&height=120&lines=MERN+Stack+Developer,;Open+Source+Enthusiast,;Problem+Solver+%26+Learner,;Building+Cool+Projects+Everyday&color=ff004f">
   </a>
 </p>
 
-<br>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=anikateagrawal&style=flat-square&color=blue" alt="Views"/>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
@@ -54,14 +54,8 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
    <img src="https://miro.medium.com/max/1400/1*JTVVQUW71CNf2ySo5h45zA.png" alt="mongoDB" height="80" width="100">
 
 <br>
-
-
 <br>
 </p>
-
-
-
------
 
 <br>
 
@@ -95,14 +89,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 <div align='center'>
-
-
-
 <br>
