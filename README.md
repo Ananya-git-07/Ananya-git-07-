@@ -78,6 +78,9 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 <img src="https://icongr.am/devicon/gmail-original.svg?size=40&color=currentColor" alt="Gmail" style="margin:5px;"/>
 </a>
 </div>
+<a href="mailto:ananyatiwari3004@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" width="40" alt="Gmail" style="margin:5px;"/>
+</a>
 
 <div align='center'>
 <br>
