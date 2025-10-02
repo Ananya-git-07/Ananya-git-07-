@@ -6,14 +6,9 @@
   </a>
 </p>
 
-</p>
-
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
 <br>
-
 I'm a passionate and results-driven Developer with a love for creating innovative, human-centered solutions. I thrive on turning complex ideas into clean, efficient, and user-friendly applications that tackle real-world challenges.
 
 🔭 I’m currently working on Sahara, a voice-enabled, empathetic AI companion designed to provide a safe and anonymous space for the youth of India to discuss mental wellness.
@@ -27,11 +22,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 📫 How to reach me: ananyatiwari3004@gmail.com
 
 ⚡ Fun fact: I believe the best way to solve a stubborn bug is to dance it out.
-
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -53,7 +43,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
    <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="mongoDB" height="100" width="150">
    <img src="https://miro.medium.com/max/1400/1*JTVVQUW71CNf2ySo5h45zA.png" alt="mongoDB" height="80" width="100">
 
-<br>
 <br>
 </p>
 
@@ -86,9 +75,14 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 <a href="www.linkedin.com/in/ananyatiwari-profile" target="_blank">
 <img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin: 5px;"/>
 </a>
-
+<a href="mailto:ananyatiwari3004@gmail.com">
+<img src="https://icongr.am/devicon/gmail-original.svg?size=40&color=currentColor" alt="Gmail" style="margin:5px;"/>
+</a>
 </div>
-
 
 <div align='center'>
 <br>
+
+## 🤝 Let's Collaborate
+I'm open to contributions, mentorship, and exciting projects. Feel free to reach out via email or LinkedIn!
+
