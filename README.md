@@ -29,7 +29,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 <br>
 
 <p align="center">
-<br>
 
 ## Languages 
   -
