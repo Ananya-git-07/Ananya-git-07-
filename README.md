@@ -74,13 +74,8 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 <a href="www.linkedin.com/in/ananyatiwari-profile" target="_blank">
 <img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin: 5px;"/>
 </a>
-<a href="mailto:ananyatiwari3004@gmail.com">
-<img src="https://icongr.am/devicon/gmail-original.svg?size=40&color=currentColor" alt="Gmail" style="margin:5px;"/>
-</a>
 </div>
-<a href="mailto:ananyatiwari3004@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" width="40" alt="Gmail" style="margin:5px;"/>
-</a>
+
 
 <div align='center'>
 <br>
