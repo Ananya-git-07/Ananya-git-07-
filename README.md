@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi , I'm Ananya Tiwari</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Problem+Solver,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=120&lines=MERN+Stack+Developer,;Open+Source+Enthusiast,;Problem+Solver+%26+Learner,;Building+Cool+Projects+Everyday&color=FF5733,33FF57,3357FF,FF33A8">
+  </a>
 </p>
 
 <br>
@@ -42,11 +44,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
   -
     ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
     ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
-    [HTML](https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor)
-    ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor)
-    ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor)
-    
-
 <br>   
 
 ## Full-Stack Development 
@@ -64,8 +61,7 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 <br>
 </p>
 
-<br>
-<br>
+
 
 -----
 
@@ -116,14 +112,6 @@ I'm a passionate and results-driven Developer with a love for creating innovativ
 
 <div align='center'>
 
-## <b>    Stay Cool! Stay Happy!...✨</b>
 
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
 
 <br>
